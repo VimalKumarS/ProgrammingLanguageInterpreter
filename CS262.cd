@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CS252Project.ParserAST">
+    <Position X="4.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACAAAAAAAAACAABAABAAQEAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>ParserAST.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CS252Project.ScanFile">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="CS252Project.ScanFile.op">
+        <TypeIdentifier>
+          <NewMemberFileName>ScanFile.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>ScanFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CS252Project.Statement" Collapsed="true">
+    <Position X="7.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Statement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CS252Project.DVar">
+    <Position X="4.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Statement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CS252Project.Print">
+    <Position X="9" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Statement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CS252Project.Assign">
+    <Position X="13.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Statement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CS252Project.Forlp">
+    <Position X="2.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAACAAAAAAAAAAAAAAAAIAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Statement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CS252Project.ReadInt">
+    <Position X="6.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Statement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CS252Project.Sequence">
+    <Position X="11.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Statement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CS252Project.Expr" Collapsed="true">
+    <Position X="12.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Statement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CS252Project.Stringvalue">
+    <Position X="9" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Statement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CS252Project.IntFloatValue">
+    <Position X="11.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Statement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CS252Project.Variable">
+    <Position X="13.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Statement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CS252Project.BinExpr">
+    <Position X="15.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAIAAAAgAA=</HashCode>
+      <FileName>Statement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CS252Project.Program">
+    <Position X="19.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAQABAAAAAAAAAAAAAAAAAAAAAAQABQAAAIA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="CS252Project.BinOp" Collapsed="true">
+    <Position X="18.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAABAgAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Statement.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

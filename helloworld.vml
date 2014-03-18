@@ -1,0 +1,8 @@
+  print "hello world";
+  var x = 1;
+  print x;
+  var ntimes = 0;
+  print "Enter any number ";
+  read_int ntimes;
+  print ntimes;
+  
